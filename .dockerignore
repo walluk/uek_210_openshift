@@ -1,0 +1,6 @@
+.git
+.github
+deployment.yml
+service.yml
+route.yml
+*.md
